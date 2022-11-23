@@ -1,1 +1,3 @@
-These are the basic script commands for permissions
+# 0x01. Shell, permissions
+# Tasks
+
